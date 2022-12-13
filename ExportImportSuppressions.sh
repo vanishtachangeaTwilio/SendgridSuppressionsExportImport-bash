@@ -3,6 +3,7 @@
 
 #echo hello This is to get list of suppressions e.g. blocks and then add it to global suppressions list.
 #echo https://stackoverflow.com/questions/32791663/how-to-run-curl-command-with-parameter-in-a-loop-from-bash-script
+#echo this is not production ready code. 
 
 
 #1. To run script:
